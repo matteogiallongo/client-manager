@@ -2,7 +2,6 @@ export const colors = {
   background: '#080808',
   surface: '#141414',
   elevated: '#1e1e1e',
-  surfaceBright: '#ffed43',
   border: 'rgba(255,255,255,0.06)',
   borderFocus: '#ffed43',
   textPrimary: '#ffffff',
@@ -23,18 +22,15 @@ export const colors = {
 };
 
 export const fonts = {
-  // Titoli e numeri grandi — DM Sans Bold (già installato, nessun pacchetto extra)
   displayBold: 'DMSans_700Bold',
   displaySemiBold: 'DMSans_700Bold',
   displayMedium: 'DMSans_500Medium',
   displayRegular: 'DMSans_400Regular',
   displayLight: 'DMSans_400Regular',
   displayItalic: 'DMSans_400Regular',
-  // Corpo testo e UI
   body: 'DMSans_400Regular',
   bodyMedium: 'DMSans_500Medium',
   bodyBold: 'DMSans_700Bold',
-  // Date e valori numerici
   mono: 'JetBrainsMono_400Regular',
 };
 
